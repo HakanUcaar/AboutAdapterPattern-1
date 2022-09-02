@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyExchangeRate.Core", "EasyExchangeRate.Core\EasyExchangeRate.Core.csproj", "{479AFF9B-6FFD-434E-AF55-749D1C9B31A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyExchangeRate.EuropeAdapter", "EasyExchangeRate.Europe\EasyExchangeRate.EuropeAdapter.csproj", "{CEBC3071-A04E-4B3C-A686-2DA977457A5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyExchangeRate.Test", "EasyExchangeRate.Test\EasyExchangeRate.Test.csproj", "{10930165-B178-4BAC-8C1F-DA11AC501BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyExchangeRate.TurkeyAdapter", "EasyExchangeRate.TurkeyAdapter\EasyExchangeRate.TurkeyAdapter.csproj", "{2B3D998E-873D-48EE-9DFF-3430317E1C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyExchangeRate.DenmarkAdapter", "EasyExchangeRate.DenmarkAdapter\EasyExchangeRate.DenmarkAdapter.csproj", "{AD0C0292-4C26-4FB3-9C7C-59A8C54FB295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyExchangeRate.IsraelAdapter", "EasyExchangeRate.IsraelAdapter\EasyExchangeRate.IsraelAdapter.csproj", "{7DFA9199-A4B8-415F-A8ED-465B716B1588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479AFF9B-6FFD-434E-AF55-749D1C9B31A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479AFF9B-6FFD-434E-AF55-749D1C9B31A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479AFF9B-6FFD-434E-AF55-749D1C9B31A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479AFF9B-6FFD-434E-AF55-749D1C9B31A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBC3071-A04E-4B3C-A686-2DA977457A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBC3071-A04E-4B3C-A686-2DA977457A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBC3071-A04E-4B3C-A686-2DA977457A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBC3071-A04E-4B3C-A686-2DA977457A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10930165-B178-4BAC-8C1F-DA11AC501BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10930165-B178-4BAC-8C1F-DA11AC501BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10930165-B178-4BAC-8C1F-DA11AC501BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10930165-B178-4BAC-8C1F-DA11AC501BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3D998E-873D-48EE-9DFF-3430317E1C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3D998E-873D-48EE-9DFF-3430317E1C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3D998E-873D-48EE-9DFF-3430317E1C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3D998E-873D-48EE-9DFF-3430317E1C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0C0292-4C26-4FB3-9C7C-59A8C54FB295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0C0292-4C26-4FB3-9C7C-59A8C54FB295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0C0292-4C26-4FB3-9C7C-59A8C54FB295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0C0292-4C26-4FB3-9C7C-59A8C54FB295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFA9199-A4B8-415F-A8ED-465B716B1588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFA9199-A4B8-415F-A8ED-465B716B1588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFA9199-A4B8-415F-A8ED-465B716B1588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFA9199-A4B8-415F-A8ED-465B716B1588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D72B3B-C175-4D5F-A093-CD7FB9DAD8DD}
+	EndGlobalSection
+EndGlobal
